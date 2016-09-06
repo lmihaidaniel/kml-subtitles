@@ -1,0 +1,6 @@
+*.srt
+*.vtt
+*.txt
+test.js
+subtitles.js
+npm-debug.log

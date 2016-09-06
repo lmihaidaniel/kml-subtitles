@@ -1,0 +1,19 @@
+{
+  "name": "kml-subtitles",
+  "version": "0.0.2",
+  "description": "Simple module which parses subtitle files to a javascript object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/lmihaidaniel/kml-subtitles.git"
+  },
+  "keywords": [
+    "subtitles",
+    "parser"
+  ],
+  "author": "Lacatusu Mihai Daniel <lacatusu.mihai.daniel@gmail.com>",
+  "license": "ISC"
+}
